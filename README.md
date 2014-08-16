@@ -19,7 +19,6 @@ Requirements
 - numpy
 - sqlalchemy
 - pandas
-- pandas
 - pandasql
 - pillow
 - pyzmq
